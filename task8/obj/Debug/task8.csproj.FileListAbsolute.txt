@@ -1,0 +1,7 @@
+C:\Users\ivanp\OneDrive\Рабочий стол\ISM Project\ISMDotNet2\task8\bin\Debug\task8.exe.config
+C:\Users\ivanp\OneDrive\Рабочий стол\ISM Project\ISMDotNet2\task8\bin\Debug\task8.exe
+C:\Users\ivanp\OneDrive\Рабочий стол\ISM Project\ISMDotNet2\task8\bin\Debug\task8.pdb
+C:\Users\ivanp\OneDrive\Рабочий стол\ISM Project\ISMDotNet2\task8\obj\Debug\task8.csprojAssemblyReference.cache
+C:\Users\ivanp\OneDrive\Рабочий стол\ISM Project\ISMDotNet2\task8\obj\Debug\task8.csproj.CoreCompileInputs.cache
+C:\Users\ivanp\OneDrive\Рабочий стол\ISM Project\ISMDotNet2\task8\obj\Debug\task8.exe
+C:\Users\ivanp\OneDrive\Рабочий стол\ISM Project\ISMDotNet2\task8\obj\Debug\task8.pdb

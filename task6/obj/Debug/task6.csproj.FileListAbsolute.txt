@@ -1,0 +1,6 @@
+C:\Users\ivanp\OneDrive\Рабочий стол\ISM Project\ISMDotNet2\task6\bin\Debug\task6.exe.config
+C:\Users\ivanp\OneDrive\Рабочий стол\ISM Project\ISMDotNet2\task6\bin\Debug\task6.exe
+C:\Users\ivanp\OneDrive\Рабочий стол\ISM Project\ISMDotNet2\task6\bin\Debug\task6.pdb
+C:\Users\ivanp\OneDrive\Рабочий стол\ISM Project\ISMDotNet2\task6\obj\Debug\task6.csproj.CoreCompileInputs.cache
+C:\Users\ivanp\OneDrive\Рабочий стол\ISM Project\ISMDotNet2\task6\obj\Debug\task6.exe
+C:\Users\ivanp\OneDrive\Рабочий стол\ISM Project\ISMDotNet2\task6\obj\Debug\task6.pdb
